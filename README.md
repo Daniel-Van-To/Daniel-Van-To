@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a new software developer.
+### I'm a new software developer.
 
-- 🌱 I’m currently learning JavaScript
+- ### 🌱 I’m currently learning JavaScript
 
